@@ -9,6 +9,5 @@ export const ReactLogo = () => {
 			width: '140px'
 		}}
 		src={rLogo} 
-		alt="Logo" 
 	/>;
 };
